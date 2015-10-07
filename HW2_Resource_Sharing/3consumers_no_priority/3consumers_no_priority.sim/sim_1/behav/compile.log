@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Hung/Documents/Vivado/3consumers_no_priority/3consumers_no_priority.srcs/sources_1/new/3consumers_behavioral.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity arbiter_bahav_3cons
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Hung/Documents/Vivado/3consumers_no_priority/3consumers_no_priority.srcs/sim_1/new/3consumers_behavioral_testbench.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity arbiter_bahav_3cons_tb

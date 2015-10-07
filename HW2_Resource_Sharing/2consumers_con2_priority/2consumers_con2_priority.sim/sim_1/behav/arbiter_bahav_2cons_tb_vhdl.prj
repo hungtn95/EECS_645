@@ -1,0 +1,6 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../2consumers_con2_priority.srcs/sources_1/new/con2_priority_behavioral.vhd"
+vhdl xil_defaultlib  "../../../2consumers_con2_priority.srcs/sim_1/new/con2_priority_behavioral_testbench.vhd"
+
+# Do not sort compile order
+nosort

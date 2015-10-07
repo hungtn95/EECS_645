@@ -1,0 +1,7 @@
+Running: xsim.dir/arbiter_bahav_2cons_tb_behav/xsimk.exe -simmode gui -wdb arbiter_bahav_2cons_tb_behav.wdb -simrunnum 0 -socket 52210
+Design successfully loaded
+Design Loading Memory Usage: 20776 KB (Peak: 20776 KB)
+Design Loading CPU Usage: 155 ms
+Simulation completed
+Simulation Memory Usage: 21140 KB (Peak: 21140 KB)
+Simulation CPU Usage: 155 ms
