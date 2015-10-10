@@ -1,0 +1,6 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  "../../../MIPS_data_memory.srcs/sources_1/imports/02_MIPS_Data_Memory/DM_struct.vhd"
+vhdl xil_defaultlib  "../../../MIPS_data_memory.srcs/sim_1/imports/02_MIPS_Data_Memory/DM_tb.vhd"
+
+# Do not sort compile order
+nosort
